@@ -48,19 +48,19 @@
 <script setup>
 const feedbacks = [
     {
-        text: "Trước đây mình ngại makeup, nhưng học tại PLITA giúp mình biết cách trang điểm nhẹ nhàng mỗi ngày, tự tin hơn khi đi làm và gặp khách hàng.",
+        text: "Vừa nhận được món trang sức, phải nói là xinh hơn cả mong đợi!. Thiết kế tinh tế, đeo lên nhìn cực kỳ sang và cuốn hút. Rất ưng ý, chắc chắn sẽ ủng hộ thêm lần sau! 💖",
         name: "Tuyết Nguyễn",
         avatar: "images/avt_1.png",
         verified: true,
     },
     {
-        text: " Mình từng làm công việc văn phòng nhưng không tìm thấy đam mê. Sau khóa học tại PLITA, mình đã có tay nghề cơ bản, tự tin nhận khách makeup đi tiệc. Lộ trình rõ ràng, thực hành nhiều, giảng viên tận tâm – mình thấy đây là quyết định đúng đắn nhất!",
+        text: "Món trang sức này đúng chuẩn “yêu từ cái nhìn đầu tiên”!. Vừa nhẹ, vừa sáng, lại hợp gu mình quá trời luôn. Cảm ơn shop vì sản phẩm và dịch vụ tuyệt vời nha! ✨",
         name: "Béo Chy",
         avatar: "images/avt_2.png",
         verified: false,
     },
     {
-        text: "Là người chia sẻ về làm đẹp, mình luôn muốn học bài bản để nâng tầm kiến thức. Tại PLITA, mình được học từ nền tảng đến chuyên sâu, hiểu đúng kỹ thuật và cách truyền cảm hứng cho người khác. Đây là nơi mình phát triển nghề và thương hiệu cá nhân!",
+        text: "Mình đã đeo thử và nhận được rất nhiều lời khen. Trang sức đẹp, chất lượng tốt, cực kỳ phù hợp đi tiệc hay chụp hình. Không ngờ giá lại quá “mềm” so với vẻ ngoài sang chảnh như vậy!",
         name: "Bao Huỳnh",
         avatar: "images/avt_3.png",
         verified: true,
