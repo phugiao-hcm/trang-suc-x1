@@ -14,7 +14,7 @@
                         class="h-10 w-auto"
                     />
                     <span class="font-bold text-pink-600 text-lg"
-                        >Premium Jewelry</span
+                        >Phú Giáo Jewelry</span
                     >
                 </NuxtLink>
                 <p class="text-sm">
@@ -85,7 +85,7 @@
                 <ul class="space-y-2 text-sm">
                     <li>
                         <i class="fas fa-map-marker-alt mr-2 text-pink-400"></i
-                        >Phú Giáo, Bình Dương
+                        >Phước Hòa, Phú Giáo, Bình Dương
                     </li>
                     <li>
                         <i class="fas fa-phone mr-2 text-pink-400"></i>0937 704
@@ -117,7 +117,7 @@
         <div
             class="text-center text-xs mt-8 text-gray-500 border-t border-pink-100 pt-4"
         >
-            © 2025 Premium Jewelry. Đã đăng ký bản quyền.
+            © 2025 Phú Giáo Jewelry. Đã đăng ký bản quyền.
         </div>
     </footer>
 </template>

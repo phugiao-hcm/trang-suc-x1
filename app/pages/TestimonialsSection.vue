@@ -4,7 +4,7 @@
             <!-- Tiêu đề -->
             <div class="text-center mb-12">
                 <h2 class="text-3xl md:text-4xl font-bold text-red-500">
-                    Cảm Nhận Khách Hàng Về Chương Trình Đào Tạo
+                    Cảm Nhận Khách Hàng khi mua Trang Sức
                 </h2>
                 <div class="mt-2 w-20 h-1 bg-red-500 mx-auto"></div>
             </div>

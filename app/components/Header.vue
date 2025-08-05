@@ -11,7 +11,7 @@
                 <span
                     class="hidden sm:inline font-semibold text-red-600 text-sm"
                 >
-                    Premium Jewelry
+                    Phú Giáo Jewelry
                 </span>
             </NuxtLink>
 
